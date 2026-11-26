@@ -1,6 +1,6 @@
 """Entry for make.fun: One-Sentence Absurd Invention Pitch.
 
-The Shush Cushion rescues guests from weather small talk.
+The Shush Cushion rescues guests from weather small talk, one ejection at a time.
 """
 import os
 
